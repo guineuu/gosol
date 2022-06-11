@@ -1,1 +1,2 @@
 # gosol
+[Pack](pack.toml)

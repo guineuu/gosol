@@ -1,2 +1,9 @@
 .git
 CNAME
+README.md
+LICENSE
+.directory
+.git/**
+.gitattributes
+.gitignore
+*.zip

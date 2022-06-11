@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "ae836dce936bf7d44867bc2e97cf3b61edce0c90535aecdec63d7a960295f256"
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "00657ab45a5f463f1469d31a6b8da8142711423a0ce4e5f820d5adb32ce67d42"
 metafile = true
