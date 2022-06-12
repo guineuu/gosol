@@ -16,13 +16,13 @@ hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
-hash = "00657ab45a5f463f1469d31a6b8da8142711423a0ce4e5f820d5adb32ce67d42"
+file = "mods/plasmo-voice.pw.toml"
+hash = "4127fa491269eff47ea004e10662f553e7324feac989cd7bcaf8a103ae126d51"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "7934b9de3ebf4d0f7737d2d7bbc422f331ed40ae213d3b73c950277d539e238b"
+file = "mods/qsl.pw.toml"
+hash = "00657ab45a5f463f1469d31a6b8da8142711423a0ce4e5f820d5adb32ce67d42"
 metafile = true
 
 [[files]]
