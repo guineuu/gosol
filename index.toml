@@ -1,8 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/auudio-fabic.pw.toml"
+hash = "cc5e9bb9dd7d0f78e1d29476ffeb9a43704e92575f32308b4386beb949e2d32a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "f6f2be0c29ade5dc9cdc89b9dfa4e31c4022a571f9a83760370a4ec34bbee9db"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "955b5160e856fbc93b615ad021e78421383177db29a1b0bc451e2840ad659f79"
+metafile = true
+
+[[files]]
+file = "mods/drippyloadingcreen-fabric.pw.toml"
+hash = "fc97e79abaddd3103453355a326366f6d48dad8e37ccd40b80d4d848969d2d7b"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu-fabric.pw.toml"
+hash = "24f8e3097c58c075c71a2da39684a938e655ed89ba1eb5bd4e6081de2445e843"
 metafile = true
 
 [[files]]
@@ -11,8 +31,18 @@ hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
 metafile = true
 
 [[files]]
+file = "mods/konkrete-fabric.pw.toml"
+hash = "b660ab237a31ee5e2b2ccae910ca3e2361d85c631a5027de43bad1de45efd121"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
 metafile = true
 
 [[files]]

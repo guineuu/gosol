@@ -1,0 +1,8 @@
+name = "Fancy Menu (Fabric)"
+filename = "fancymenu_fabric_2.7.2_MC_1.19.jar"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3821/671/fancymenu_fabric_2.7.2_MC_1.19.jar"
+hash-format = "sha1"
+hash = "c4aa85960e954fa8cb634232797f6a80bf785528"
