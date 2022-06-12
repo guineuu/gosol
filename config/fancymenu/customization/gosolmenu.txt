@@ -143,15 +143,15 @@ customization {
 
 customization {
   orientation = top-centered
-  basecolor = #944BBB
+  basecolor = #C9B8FF
   shadow = true
   splashfilepath = res/splash.txt
   rotation = -0.0
   x = -14
   actionid = 92a8267b-e783-47cf-9dc2-020e94d0c43a1655065604756
   action = addsplash
-  y = 89
-  scale = 0.7
+  y = 87
+  scale = 0.8
   refresh = true
   bouncing = true
 }
@@ -216,12 +216,12 @@ customization {
 }
 
 customization {
-  orientation = bottom-right
+  orientation = bottom-left
   shadow = false
-  x = -476
+  x = 5
   actionid = ee6f3890-1593-4ab5-a159-45ff5dced8761655067138243
   action = addtext
-  y = -27
+  y = -28
   scale = 0.8
   alignment = left
   value = §cf§6e§el§ai§9z §5g§ca§6y §a%realtimeday%§b!§5!§c!§6!
