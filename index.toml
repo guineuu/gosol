@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/drippyloadingscreen/config.cfg"
+hash = "857b30a5700c4c2ba7ee606406329e445ba63cf1f083838aa9e04920a208ba17"
+
+[[files]]
+file = "config/drippyloadingscreen/customization/gosolload.dllayout"
+hash = "058e4d629faeed18ff19e428b08c3367bfef926330fef07ecfab129aaf52bd7b"
+
+[[files]]
+file = "config/drippyloadingscreen/locals/en_us.local"
+hash = "f15498a3da933cadfc0d59766ccb1ef1ed80f6075ded7c240f054a5ead173c9b"
+
+[[files]]
 file = "mods/auudio-fabic.pw.toml"
-hash = "cc5e9bb9dd7d0f78e1d29476ffeb9a43704e92575f32308b4386beb949e2d32a"
+hash = "075ce03364eff67b4a38934dd94e5c7e749e889e0b2bfbf3a6f2e945b9bbb1de"
 metafile = true
 
 [[files]]
@@ -12,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "955b5160e856fbc93b615ad021e78421383177db29a1b0bc451e2840ad659f79"
+hash = "ab167459e8e720acddb5824918deff1062670158d63947f49147b8d484f3ba29"
 metafile = true
 
 [[files]]
@@ -27,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+hash = "ebbafdb05a98805c8748c8775d10ae89e37959fe5f4dab1775ce258a02a3f7ef"
 metafile = true
 
 [[files]]
@@ -68,4 +80,25 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "57a48c9eba24190b5533f119185d61c7e6140698ad42e2cd8844e77afca20b28"
+
+[[files]]
+file = "res/gosollogo.png"
+hash = "0247611fbb06584e28c9f8e3eaa730af8ac009697722119fbd51617ecfb40da2"
+
+[[files]]
+file = "res/loading.png"
+hash = "6f15851dfde1da76bd471ba77d39404b96e462ac15f5cfc6ebdb2589ed58951e"
+
+[[files]]
+file = "res/splash.txt"
+hash = "0e5cacc2583f43c8ac0f5a4c128ec768992263af2fb21407c806604506342199"
+
+[[files]]
+file = "shaderpacks/complementary.toml"
+hash = "e1787d53971d8b62f9fc63c33a590878109e07f2730972f22fd69b8040ea8d0c"
 metafile = true

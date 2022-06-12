@@ -1,0 +1,14 @@
+name = "[IRIS] Complementary 4.4"
+filename = "ComplementaryShaders_v4.4.zip"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = "Descargar el pack de shaders Complementary 4.4"
+
+[download]
+url = "https://media.forgecdn.net/files/3685/89/ComplementaryShaders_v4.4.zip"
+
+hash-format = "sha256"
+hash = "297e2947c1986ba2faefdd3f2e0aa365b3e6dfd308853baae70821b393c06861"

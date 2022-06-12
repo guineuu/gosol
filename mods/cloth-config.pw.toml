@@ -1,6 +1,6 @@
 name = "Cloth Config API"
 filename = "cloth-config-7.0.72-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.72+fabric/cloth-config-7.0.72-fabric.jar"
