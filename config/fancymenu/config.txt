@@ -50,7 +50,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'GosolEstiu 1.0-prerelease';
+S:customwindowtitle = 'GosolCraft';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 
