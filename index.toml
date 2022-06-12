@@ -14,11 +14,15 @@ hash = "f15498a3da933cadfc0d59766ccb1ef1ed80f6075ded7c240f054a5ead173c9b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "fec0c5b37f09498f8e28bff8683ec59ef93922a4ef53541cc96ddbc6219bae8f"
+hash = "a6d105a40214331c84fcb92f9b6bc8eea09057ece544908bcd0a54fccbb1cea5"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/gosolmenu.txt"
+hash = "1029da7d216bd3eefd509159632758696697601c5923b5c5cb1ddc0435f56737"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
@@ -157,4 +161,4 @@ metafile = true
 
 [[files]]
 file = "ver.txt"
-hash = "4ef7671871aa4d1408715c85d9e112566d44904ffd07f41e37749a16e43e4cd9"
+hash = "3dc83ab504e898bf20de01c6288686ef5b286801b91b554e040a6607193d8e2d"
