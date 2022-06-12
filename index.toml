@@ -13,6 +13,58 @@ file = "config/drippyloadingscreen/locals/en_us.local"
 hash = "f15498a3da933cadfc0d59766ccb1ef1ed80f6075ded7c240f054a5ead173c9b"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "fec0c5b37f09498f8e28bff8683ec59ef93922a4ef53541cc96ddbc6219bae8f"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "2496d5f076a277ae04f395d068eaac678c426200b24be568fa7bf6a7eb3b816e"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "550d6a211d18fb36e10ca6f23667737ab703c8355e72a027e36b345862c8c5f5"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "1d6973a9be07fa058df9b5417a6745eee1db4a7e6c35642177a3a689b98dac56"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_0.png"
+hash = "a42e76a0c72453443be61828838ca468a4e145e30df8292058ebafc1b2eb07d9"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_1.png"
+hash = "a0cf82d267991f8abec1c13727f5ac2e3e6cd319268cbdbe7e57e3d8f1bdeb22"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_2.png"
+hash = "2c09737a3d8d29ac0a994979fa258405905bd37f2b385172d297826b62485a57"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_3.png"
+hash = "babfd3219ed90ac894961128b32d9e02f6bafc1d4076155acc53f0f94d933b6e"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_4.png"
+hash = "44a7af99e7551a83c482dadf9c0d6c05a37ceb3bcd7fe3239084a41505ab287a"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_5.png"
+hash = "a565d85a2aef35b3313de410aaaab81c0c65dd31b3961a55620c95d6618c61a6"
+
+[[files]]
+file = "config/fancymenu/panoramas/panoramagosol/properties.txt"
+hash = "046843e8176fbd736c762a4647672344dc07d2237767b1f33ae3c160081c0126"
+
+[[files]]
 file = "mods/auudio-fabic.pw.toml"
 hash = "075ce03364eff67b4a38934dd94e5c7e749e889e0b2bfbf3a6f2e945b9bbb1de"
 metafile = true
@@ -84,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "57a48c9eba24190b5533f119185d61c7e6140698ad42e2cd8844e77afca20b28"
+hash = "0c8f09d7c8d8ea4d99e9efad318ff0015c902b0a9cf2cc081edcb10bb6a159db"
 
 [[files]]
 file = "res/gosollogo.png"
@@ -102,3 +154,7 @@ hash = "0e5cacc2583f43c8ac0f5a4c128ec768992263af2fb21407c806604506342199"
 file = "shaderpacks/complementary.toml"
 hash = "e1787d53971d8b62f9fc63c33a590878109e07f2730972f22fd69b8040ea8d0c"
 metafile = true
+
+[[files]]
+file = "ver.txt"
+hash = "4ef7671871aa4d1408715c85d9e112566d44904ffd07f41e37749a16e43e4cd9"
