@@ -1,11 +1,11 @@
-name = "[IRIS] Complementary 4.4"
+name = "[IRIS] Complementary 4.5"
 filename = "ComplementaryShaders_v4.5.zip"
 side = "client"
 
 [option]
 optional = true
 default = true
-description = "Descargar el pack de shaders Complementary 4.4"
+description = "Descargar el pack de shaders Complementary 4.5"
 
 [download]
 url = "https://media.forgecdn.net/files/3826/772/ComplementaryShaders_v4.5.zip"

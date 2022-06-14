@@ -156,9 +156,8 @@ hash = "0e5cacc2583f43c8ac0f5a4c128ec768992263af2fb21407c806604506342199"
 
 [[files]]
 file = "shaderpacks/complementary.toml"
-hash = "e1787d53971d8b62f9fc63c33a590878109e07f2730972f22fd69b8040ea8d0c"
-metafile = true
+hash = "b53b5c66baaadbd88a8d4b7d6cf30d72f7faf9a82f7960e867b73a65f75368da"
 
 [[files]]
 file = "ver.txt"
-hash = "0801824f1456ac30c18ff88132a80284c5e97812a7c901d739ce51395f61f3ff"
+hash = "e47a970d4ad45e9581e7df29a7357d883fa79a4e2168d294b2d91088da331585"
