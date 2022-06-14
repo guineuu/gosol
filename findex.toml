@@ -69,12 +69,8 @@ file = "config/fancymenu/panoramas/panoramagosol/properties.txt"
 hash = "046843e8176fbd736c762a4647672344dc07d2237767b1f33ae3c160081c0126"
 
 [[files]]
-file = "findex.toml"
-hash = "9e3d4f29fed13dc46063ddc1433892369d3ec3dbbd32ad65c829961e4d6b554a"
-
-[[files]]
-file = "fpack.toml"
-hash = "9c1687d4fd4e77aadf996c4412e69ae58e8d95ecf2adb5db7c3c49e31757a58c"
+file = "index.toml"
+hash = "9c0ea2e55480c8196c820f37ffc9f963b871b0e934df1eec3fdeb63a49a371a8"
 
 [[files]]
 file = "mods/auudio-fabic.pw.toml"
@@ -99,6 +95,7 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "68a7ae55f43cf6c9ddf2e3e091705538bfc5d20b7e24b38afaa4e221bbcd3979"
+metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
@@ -133,7 +130,6 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "00657ab45a5f463f1469d31a6b8da8142711423a0ce4e5f820d5adb32ce67d42"
-metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -155,6 +151,10 @@ file = "options.txt"
 hash = "0c8f09d7c8d8ea4d99e9efad318ff0015c902b0a9cf2cc081edcb10bb6a159db"
 
 [[files]]
+file = "pack.toml"
+hash = "e1fd3c6871206674639efbd94f2e74d3b21a764d62757f7d98fed727300c5c9a"
+
+[[files]]
 file = "res/gosollogo.png"
 hash = "0247611fbb06584e28c9f8e3eaa730af8ac009697722119fbd51617ecfb40da2"
 
@@ -169,7 +169,6 @@ hash = "0e5cacc2583f43c8ac0f5a4c128ec768992263af2fb21407c806604506342199"
 [[files]]
 file = "shaderpacks/complementary.toml"
 hash = "e1787d53971d8b62f9fc63c33a590878109e07f2730972f22fd69b8040ea8d0c"
-metafile = true
 
 [[files]]
 file = "ver.txt"
