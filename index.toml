@@ -69,14 +69,6 @@ file = "config/fancymenu/panoramas/panoramagosol/properties.txt"
 hash = "046843e8176fbd736c762a4647672344dc07d2237767b1f33ae3c160081c0126"
 
 [[files]]
-file = "findex.toml"
-hash = "c08e72767f35d5e4c487e51b86390e7f87d2fd89c1514cca2d1661ccc3588983"
-
-[[files]]
-file = "fpack.toml"
-hash = "59aa481de29c976634a09674837470d15b396e7068e2e9f0eba8f6639fdb56b1"
-
-[[files]]
 file = "mods/auudio-fabic.pw.toml"
 hash = "075ce03364eff67b4a38934dd94e5c7e749e889e0b2bfbf3a6f2e945b9bbb1de"
 metafile = true
@@ -95,10 +87,6 @@ metafile = true
 file = "mods/drippyloadingcreen-fabric.pw.toml"
 hash = "fc97e79abaddd3103453355a326366f6d48dad8e37ccd40b80d4d848969d2d7b"
 metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "68a7ae55f43cf6c9ddf2e3e091705538bfc5d20b7e24b38afaa4e221bbcd3979"
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"

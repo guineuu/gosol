@@ -1,13 +1,13 @@
-name = "GósolCraft"
+name = "GosolCraft"
 author = "guineu"
-version = "1.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "58ab9f9f3e9b8bd585144034bc6dfd5c4cbac90ebd7bdb113d8a9d0d4662bec7"
+hash = "02d572f779c0fb314590c215aabb0ccf7de5f8aa6134cbbe210f56a612890050"
 
 [versions]
 minecraft = "1.19"
-quilt = "0.17.0"
+quilt = "0.17.1-beta.1"

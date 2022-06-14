@@ -8,7 +8,7 @@ default = true
 description = "Descargar el pack de shaders Complementary 4.4"
 
 [download]
-url = "https://media.forgecdn.net/files/3685/89/ComplementaryShaders_v4.4.zip"
+url = "https://media.forgecdn.net/files/3826/772/ComplementaryShaders_v4.5.zip"
 
 hash-format = "sha256"
-hash = "297e2947c1986ba2faefdd3f2e0aa365b3e6dfd308853baae70821b393c06861"
+hash = "55de6d68796f5db8752593b645f25f631ab7eadd8dcf460677b5c619dea4474d"
