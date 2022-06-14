@@ -70,11 +70,11 @@ hash = "046843e8176fbd736c762a4647672344dc07d2237767b1f33ae3c160081c0126"
 
 [[files]]
 file = "findex.toml"
-hash = "9e3d4f29fed13dc46063ddc1433892369d3ec3dbbd32ad65c829961e4d6b554a"
+hash = "c08e72767f35d5e4c487e51b86390e7f87d2fd89c1514cca2d1661ccc3588983"
 
 [[files]]
 file = "fpack.toml"
-hash = "9c1687d4fd4e77aadf996c4412e69ae58e8d95ecf2adb5db7c3c49e31757a58c"
+hash = "59aa481de29c976634a09674837470d15b396e7068e2e9f0eba8f6639fdb56b1"
 
 [[files]]
 file = "mods/auudio-fabic.pw.toml"
@@ -127,12 +127,12 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "4127fa491269eff47ea004e10662f553e7324feac989cd7bcaf8a103ae126d51"
+hash = "ec14e6c8f75a292eec280012772b63dc3d4258f51806ec20a29ad2b96e76979c"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "00657ab45a5f463f1469d31a6b8da8142711423a0ce4e5f820d5adb32ce67d42"
+hash = "ce188971c0534b989e14ab1a0a6efb01a3fe871373a8f9522a4e40d31a19d672"
 metafile = true
 
 [[files]]
@@ -173,4 +173,4 @@ metafile = true
 
 [[files]]
 file = "ver.txt"
-hash = "3cb486d50636099820695cfb5236886d01a9e001efabfcae41928abced1c1411"
+hash = "0801824f1456ac30c18ff88132a80284c5e97812a7c901d739ce51395f61f3ff"

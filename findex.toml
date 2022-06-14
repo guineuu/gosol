@@ -70,7 +70,7 @@ hash = "046843e8176fbd736c762a4647672344dc07d2237767b1f33ae3c160081c0126"
 
 [[files]]
 file = "index.toml"
-hash = "9c0ea2e55480c8196c820f37ffc9f963b871b0e934df1eec3fdeb63a49a371a8"
+hash = "a89b6641220491b62afa8953e600401020b60de4763dbfd14e400b9732d38aeb"
 
 [[files]]
 file = "mods/auudio-fabic.pw.toml"
@@ -124,12 +124,12 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "4127fa491269eff47ea004e10662f553e7324feac989cd7bcaf8a103ae126d51"
+hash = "ec14e6c8f75a292eec280012772b63dc3d4258f51806ec20a29ad2b96e76979c"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "00657ab45a5f463f1469d31a6b8da8142711423a0ce4e5f820d5adb32ce67d42"
+hash = "ce188971c0534b989e14ab1a0a6efb01a3fe871373a8f9522a4e40d31a19d672"
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -152,7 +152,7 @@ hash = "0c8f09d7c8d8ea4d99e9efad318ff0015c902b0a9cf2cc081edcb10bb6a159db"
 
 [[files]]
 file = "pack.toml"
-hash = "e1fd3c6871206674639efbd94f2e74d3b21a764d62757f7d98fed727300c5c9a"
+hash = "f1f2bf2d577f05faf22270a6027a3b82717ff37ce348a67791187a4c306a49ed"
 
 [[files]]
 file = "res/gosollogo.png"
@@ -172,4 +172,4 @@ hash = "e1787d53971d8b62f9fc63c33a590878109e07f2730972f22fd69b8040ea8d0c"
 
 [[files]]
 file = "ver.txt"
-hash = "3cb486d50636099820695cfb5236886d01a9e001efabfcae41928abced1c1411"
+hash = "0801824f1456ac30c18ff88132a80284c5e97812a7c901d739ce51395f61f3ff"
