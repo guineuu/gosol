@@ -1,4 +1,4 @@
-name = "GosolCraft"
+name = "Gosol"
 author = "guineu"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bb57e560c7f93805d75fe0bd2f21ab5341f631a6a67480e7c97336a816ee09a5"
+hash = "a0b11f4271ccfadd68ebc90940a623d7a33a08b3e0dd02ec084a6cf7dfe492cc"
 
 [versions]
 minecraft = "1.19"
-quilt = "0.17.1-beta.1"
+quilt = "0.17.1-beta.2"
