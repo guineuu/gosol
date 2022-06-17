@@ -22,7 +22,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/gosolmenu.txt"
-hash = "ab3349275402b53496b8ae1a7fab5df8a96f246203cd95d31d60c981a9100b27"
+hash = "919e4b04ea3d31856c35b10d91a83c11de381289e6308b559c29859e6598d169"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
@@ -114,13 +114,13 @@ hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "ec14e6c8f75a292eec280012772b63dc3d4258f51806ec20a29ad2b96e76979c"
+file = "mods/qsl.pw.toml"
+hash = "ce188971c0534b989e14ab1a0a6efb01a3fe871373a8f9522a4e40d31a19d672"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
-hash = "ce188971c0534b989e14ab1a0a6efb01a3fe871373a8f9522a4e40d31a19d672"
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0faa80a6003565e9eb0232d929adb79b4fc21a410548c43356486733dd418b03"
 metafile = true
 
 [[files]]

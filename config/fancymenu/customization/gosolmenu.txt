@@ -119,14 +119,14 @@ customization {
   orientation = mid-left
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = openlink
+  buttonaction = joinserver
   x = 8
   width = 100
   actionid = 916b3faa-7965-476c-9c5c-00b1a8054e931655065451745
   action = addbutton
   y = -6
   label = Entrar a Gósol
-  value = 
+  value = test.guineu.tk
   height = 20
 }
 
