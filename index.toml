@@ -109,6 +109,11 @@ hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
 metafile = true
 
 [[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "3e8350e1196c931c4bcb54cbe6455cb6359b585c2478fa5f3613930a5ef4081f"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
 metafile = true
@@ -152,7 +157,7 @@ hash = "6f15851dfde1da76bd471ba77d39404b96e462ac15f5cfc6ebdb2589ed58951e"
 
 [[files]]
 file = "res/splash.txt"
-hash = "0e5cacc2583f43c8ac0f5a4c128ec768992263af2fb21407c806604506342199"
+hash = "098e891b2249a2c3ab6c8c8af17652343974f2c4e3069feaeea1793764c07fc2"
 
 [[files]]
 file = "shaderpacks/complementary.toml"
