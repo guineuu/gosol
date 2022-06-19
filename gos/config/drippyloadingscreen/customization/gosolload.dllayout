@@ -1,0 +1,50 @@
+type = hud
+
+customization-meta {
+  fadeout = false
+  randomgroup = 1
+  keepaspectratio = false
+  backgroundimage = res/loading.png
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  backgroundcolor = 171123
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  x = -2
+  action = editprogressbar
+  y = -26
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 6
+  textcolor = #ffffff
+  action = addtext
+  actionid = 2e934429-68c8-42b0-badc-0f58721d15d11652434158126
+  y = -4
+  scale = 1.5
+  alignment = left
+  value = Cargando... %loadingprogress%%
+}
+
+customization {
+  orientation = bottom-right
+  shadow = false
+  x = -7
+  textcolor = #ffffff
+  action = addtext
+  actionid = ea267482-ca20-4f56-9e12-1f9eb68a03441652437017560
+  y = -4
+  scale = 1.5
+  alignment = left
+  value = %percentram% de RAM usada
+}
+

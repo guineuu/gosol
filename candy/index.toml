@@ -84,6 +84,11 @@ hash = "ab167459e8e720acddb5824918deff1062670158d63947f49147b8d484f3ba29"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
+metafile = true
+
+[[files]]
 file = "mods/drippyloadingcreen-fabric.pw.toml"
 hash = "fc97e79abaddd3103453355a326366f6d48dad8e37ccd40b80d4d848969d2d7b"
 metafile = true
@@ -94,8 +99,18 @@ hash = "24f8e3097c58c075c71a2da39684a938e655ed89ba1eb5bd4e6081de2445e843"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "bbbf79e3bc952411d58fb20119792dda0096b42784ff9398c5febd2a137153c4"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "1cefb097ea4012055582060d6939a7928f359a514f01dde8cbf0edb58a13d388"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
-hash = "ebbafdb05a98805c8748c8775d10ae89e37959fe5f4dab1775ce258a02a3f7ef"
+hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
 metafile = true
 
 [[files]]
@@ -116,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "a83db6f7f755d1a3eb8452f88d1871586dce2b1bca6c7a39d2fb0109ea55420d"
 metafile = true
 
 [[files]]
@@ -144,6 +164,11 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "eda1cc1a41819d633cc5161ea985aa3f4cbf8f7901496bbde160c885ea808628"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "0c8f09d7c8d8ea4d99e9efad318ff0015c902b0a9cf2cc081edcb10bb6a159db"
 
@@ -162,8 +187,3 @@ hash = "098e891b2249a2c3ab6c8c8af17652343974f2c4e3069feaeea1793764c07fc2"
 [[files]]
 file = "shaderpacks/complementary.toml"
 hash = "b53b5c66baaadbd88a8d4b7d6cf30d72f7faf9a82f7960e867b73a65f75368da"
-metafile = true
-
-[[files]]
-file = "ver.txt"
-hash = "b405ea408d80c8e87f926f17b305fbdaf4dd3c2036db8e7bd55b6d4d798b6743"

@@ -1,0 +1,13 @@
+name = "Gosol"
+author = "guineu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "340a5a4c507ad3b23952aba57690b04a28e5e1359d842ad2a2e1928d2d97468a"
+
+[versions]
+minecraft = "1.19"
+quilt = "0.17.1-beta.2"

@@ -1,0 +1,243 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = panoramagosol
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-left
+  x = 79
+  action = movebutton
+  y = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 29
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = setbuttonlabel
+  value = Mod
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 8
+  action = movebutton
+  y = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 70
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 8
+  action = movebutton
+  y = 37
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 70
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 79
+  action = movebutton
+  y = 37
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 29
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Salir
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  x = 8
+  width = 100
+  actionid = 916b3faa-7965-476c-9c5c-00b1a8054e931655065451745
+  action = addbutton
+  y = -6
+  label = Entrar a Gósol
+  value = test.guineu.tk
+  height = 20
+}
+
+customization {
+  path = res/gosollogo.png
+  orientation = top-centered
+  x = -120
+  width = 241
+  action = addtexture
+  actionid = 2eb7673c-3949-48d5-af09-ec43c934974d1655065513161
+  y = 21
+  height = 69
+}
+
+customization {
+  orientation = top-centered
+  basecolor = #C9B8FF
+  shadow = true
+  splashfilepath = res/splash.txt
+  rotation = -0.0
+  x = -14
+  actionid = 92a8267b-e783-47cf-9dc2-020e94d0c43a1655065604756
+  action = addsplash
+  y = 87
+  scale = 0.8
+  refresh = true
+  bouncing = true
+}
+
+customization {
+  orientation = top-centered
+  shadow = true
+  multiline = false
+  x = 86
+  actionid = 4f31d66a-9e6c-4f3c-bbd2-41de882fae0e1655066540084
+  action = addwebtext
+  y = 80
+  scale = 0.75
+  alignment = left
+  url = http://pack.guineu.tk/ver.txt
+}
+
+customization {
+  orientation = bottom-left
+  x = 4
+  width = 8
+  action = addwebtexture
+  actionid = 2c8b2cca-6689-4c23-8f8d-b5e14564ca411655066744245
+  y = -19
+  url = https://raw.githubusercontent.com/QuiltMC/art/master/brand/64png/quilt_logo_transparent.png
+  height = 8
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 14
+  actionid = 23a61b86-0f3d-47b7-ab01-ad7cee89e9f41655066790887
+  action = addtext
+  y = -18
+  scale = 0.8
+  alignment = left
+  value = %version:fabric%
+}
+
+customization {
+  orientation = bottom-left
+  x = 4
+  width = 8
+  action = addwebtexture
+  actionid = 07da0a04-b258-422a-a056-24ca29560ac61655066901014
+  y = -10
+  url = https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/977e8c4f-1c99-46cd-b070-10cd97086c08/d36qrs5-017c3744-8c94-4d47-9633-d85b991bf2f7.png/v1/fill/w_512,h_512,q_75,strp/minecraft_hd_icon___mac___pc_by_hunterkharon-d36qrs5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvaS85NzdlOGM0Zi0xYzk5LTQ2Y2QtYjA3MC0xMGNkOTcwODZjMDgvZDM2cXJzNS0wMTdjMzc0NC04Yzk0LTRkNDctOTYzMy1kODViOTkxYmYyZjcucG5nIiwid2lkdGgiOiI8PTUxMiIsImhlaWdodCI6Ijw9NTEyIn1dXX0.fHcEZTOhH9F2SMaLYOE-lqlgA_L5l-7Mmtp6sgbq3j4
+  height = 8
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 13
+  actionid = a06177a3-5758-4099-b6fc-ecab0aaa42d71655066929262
+  action = addtext
+  y = -9
+  scale = 0.8
+  alignment = left
+  value = %mcversion%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 5
+  actionid = ee6f3890-1593-4ab5-a159-45ff5dced8761655067138243
+  action = addtext
+  y = -28
+  scale = 0.8
+  alignment = left
+  value = §cf§6e§el§ai§9z §5g§ca§6y §a%realtimeday%§b!§5!§c!§6!
+}
+
+customization {
+  showname = true
+  orientation = bottom-right
+  crouching = false
+  x = -15
+  slim = false
+  actionid = 8b94d07c-2c14-47b4-b64c-aed0c375b8911655067177559
+  action = addentity
+  y = 0
+  scale = 25
+  playername = %playername%
+  parrot = false
+}
+
