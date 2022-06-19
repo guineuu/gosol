@@ -1,4 +1,4 @@
 # gosol
 Archivos:
-- **GosolCraft:** [ZIP](pack.guineu.tk/Gosol.zip) [*INTERNO*](gos/pack.toml)
-- **GosolCraft Sucre:** [ZIP](pack.guineu.tk/GosolSucre.zip)  [*INTERNO*](sucre/pack.toml)
+- **GosolCraft:** [_Instancia (ZIP)_](http://pack.guineu.tk/Gosol.zip) **//** [*toml*](gos/pack.toml)
+- **GosolCraft Sucre:** [_Instancia (ZIP)_](http://pack.guineu.tk/GosolSucre.zip) **//**  [*toml*](sucre/pack.toml)
