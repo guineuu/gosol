@@ -14,7 +14,7 @@ hash = "f15498a3da933cadfc0d59766ccb1ef1ed80f6075ded7c240f054a5ead173c9b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "a6d105a40214331c84fcb92f9b6bc8eea09057ece544908bcd0a54fccbb1cea5"
+hash = "a1ce69017b81935d49d78f4da74c8df269c7c787005f414724d1755fd27d7714"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -191,4 +191,5 @@ hash = "098e891b2249a2c3ab6c8c8af17652343974f2c4e3069feaeea1793764c07fc2"
 
 [[files]]
 file = "shaderpacks/complementary.toml"
-hash = "b53b5c66baaadbd88a8d4b7d6cf30d72f7faf9a82f7960e867b73a65f75368da"
+hash = "30a90aa414f4d0a17d5595f147f475d979e0f7fa037736ee9661548531c4bd58"
+metafile = true
