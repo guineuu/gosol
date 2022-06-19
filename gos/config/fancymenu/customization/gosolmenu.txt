@@ -166,7 +166,7 @@ customization {
   y = 80
   scale = 0.75
   alignment = left
-  url = http://pack.guineu.tk/ver.txt
+  url = https://pack.guineu.tk/ver.txt
 }
 
 customization {
