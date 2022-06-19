@@ -1,4 +1,4 @@
-name = "Gosol"
+name = "Gosol Neu"
 author = "guineu"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "234a69e7ad804420993d2edc41f14e9303d4c289a4b19a8632fcc2c8cf3decad"
+hash = "0c92cd2fa1da9d35d9e86f9e644eee9b1475bd63e04639d4fe4f1c275d2dd090"
 
 [versions]
 minecraft = "1.19"

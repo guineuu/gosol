@@ -94,6 +94,11 @@ hash = "24f8e3097c58c075c71a2da39684a938e655ed89ba1eb5bd4e6081de2445e843"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+metafile = true
+
+[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "b660ab237a31ee5e2b2ccae910ca3e2361d85c631a5027de43bad1de45efd121"
 metafile = true
