@@ -22,7 +22,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/gosolmenu.txt"
-hash = "919e4b04ea3d31856c35b10d91a83c11de381289e6308b559c29859e6598d169"
+hash = "ccf9b3ea5eae339a507c5c644fb0004f904b6e88f9c9a27aca6e4de9ed582269"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
@@ -74,11 +74,6 @@ hash = "075ce03364eff67b4a38934dd94e5c7e749e889e0b2bfbf3a6f2e945b9bbb1de"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "70cec5805ca58df9312b10155ca00151dfeb0204af18f1f76da4b04d31e2dc11"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "ab167459e8e720acddb5824918deff1062670158d63947f49147b8d484f3ba29"
 metafile = true
@@ -106,11 +101,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
-metafile = true
-
-[[files]]
-file = "mods/maintenancemode.pw.toml"
-hash = "3e8350e1196c931c4bcb54cbe6455cb6359b585c2478fa5f3613930a5ef4081f"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "AudioPlayer"
+filename = "audioplayer-1.19-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "451b161bf109465593b886e570b8804e70d1dcd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3820816
+project-id = 549719

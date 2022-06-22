@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "5fd426a8a5bc7a2fcfa3bfdb7c27dcd46cbf90b5e39274dc160f762b66cff082"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "49b2d1cd601a35967f875dbf0fa762295fc93621f1caa5292561ba527f1d0c9d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0faa80a6003565e9eb0232d929adb79b4fc21a410548c43356486733dd418b03"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b48a96a91849dec6ef853b6e3b7112be1860df95b3dc803842bef0bf2d725993"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
