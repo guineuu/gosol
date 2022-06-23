@@ -14,7 +14,7 @@ hash = "f15498a3da933cadfc0d59766ccb1ef1ed80f6075ded7c240f054a5ead173c9b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "faa25172b0898c818ce47bd09fff0eb09a75bbfee5272700b785678954213dab"
+hash = "4d7cd30903870249e766a1728742794a0cf9c7566d24fce9c7a349182a27c807"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -38,7 +38,7 @@ hash = "e80ad529f28008bf1c04eb9671dab4d531b9b8a575854c685fe9f68b451b291d"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "986afccc846bd6462c8458830fb2720014e42df693f53a88c64248dcbed6d2ca"
+hash = "66abeae942c2cc9790440102ec1acb0a162d61c133b2764d093fda56b37004c3"
 
 [[files]]
 file = "config/fancymenu/panoramas/panoramagosol/panorama/panorama_0.png"
