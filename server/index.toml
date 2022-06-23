@@ -6,6 +6,10 @@ hash = "5fd426a8a5bc7a2fcfa3bfdb7c27dcd46cbf90b5e39274dc160f762b66cff082"
 metafile = true
 
 [[files]]
+file = "mods/better-fabric-console-mc1.19-1.0.5.jar"
+hash = "c5f29da65a8171cfa16c290232d653f641776406c6d01aa308f6935dfa5c98f4"
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "2b9d778f845e30e9111c5b02f8fc68c797ad39e2a79c7e9d88ab54fa133b100b"
 metafile = true
