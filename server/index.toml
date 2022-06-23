@@ -6,6 +6,11 @@ hash = "5fd426a8a5bc7a2fcfa3bfdb7c27dcd46cbf90b5e39274dc160f762b66cff082"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "2b9d778f845e30e9111c5b02f8fc68c797ad39e2a79c7e9d88ab54fa133b100b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "49b2d1cd601a35967f875dbf0fa762295fc93621f1caa5292561ba527f1d0c9d"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "3e8350e1196c931c4bcb54cbe6455cb6359b585c2478fa5f3613930a5ef4081f"
 metafile = true
 
 [[files]]
