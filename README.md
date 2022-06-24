@@ -6,11 +6,11 @@
 
 ## Índice
 
-- [🧊 Instalación del Launcher 🧊](#🧊-instalación-del-launcher-🧊)
-- [🗻 Instalación del Pack 🗻](#🗻-instalación-del-pack-🗻)
+- <a href="#-instalación-del-launcher-">🧊 Instalación del launcher 🧊</a>
+- <a href="#-instalación-del-pack-%EF%B8%8F">🗻 Instalación del pack ❄️</a>
   - [Información](#información)
   - [Guia de instalación](#guia-de-instalación)
-- [🚪 Conexión al servidor 🚪](#🚪-conexión-al-servidor🚪)
+- <a href="#-conexión-al-servidor-y-otros-links">🚪 Conexión al servidor y otros links🚪</a>
 
 ## 🧊 Instalación del launcher 🧊
 
@@ -30,7 +30,7 @@ Por favor, selecciona como de masticada quieres la guia:
   <strong>[ ! ] Importante tener instalado Java. Muy recomendado de 64 bits.</strong> <br>
 
   1. Abre el launcher y inicia sesión clicando en "Perfiles" (Parte superiror derecha). Asegurate de elegir el tipo de cuenta correcto (Mojang o Microsoft). <br>
-  2. Ya está! Pasa a la instalación: <a href="#🗻-instalación-del-pack-❄️">⏭️</a>.
+  2. Ya puedes pasar al siguiente paso!
   
 </details>
 <details>
@@ -45,7 +45,7 @@ Por favor, selecciona como de masticada quieres la guia:
   3. Toca iniciar sesión. Si aún tienes una cuenta de Mojang te recomiendo encarecidamente que la migres ahora, igualmente aún tienes la opción de usarla. <br>
   <strong>(Puedes migar tu cuenta [aquí](https://www.minecraft.net/es-es/login).)</strong>
   <img src="img/paso3.png">
-  4. Ya puedes pasar al siguiente paso! <a href="#🗻-instalación-del-pack-❄️">⏭️</a>.
+  4. Ya puedes pasar al siguiente paso!
 
 </details>
 
