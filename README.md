@@ -27,35 +27,35 @@ Por favor, selecciona como de masticada quieres la guia:
 <details>
   <summary><strong>😎 Gigachad/Gigastacy se lo que me hago</strong></summary>
   
-  > **[ ! ] Importante tener instalado Java. Muy recomendado de 64 bits.**
+  <strong>[ ! ] Importante tener instalado Java. Muy recomendado de 64 bits.</strong> <br>
 
-  1. Abre el launcher y inicia sesión clicando en "Perfiles" (Parte superiror derecha). Asegurate de elegir el tipo de cuenta correcto (Mojang o Microsoft).
-  2. Ya está! Pasa a la [instalación del pack](#🗻-instalación-del-pack-🗻).
+  1. Abre el launcher y inicia sesión clicando en "Perfiles" (Parte superiror derecha). Asegurate de elegir el tipo de cuenta correcto (Mojang o Microsoft). <br>
+  2. Ya está! Pasa a la [instalación del pack](#🗻-instalación-del-pack-❄️).
   
 </details>
 <details>
   <summary><strong>👶 Gugugaga me hice caca👶</strong></summary>
   
-  > **[ ! ] Importante tener instalado Java. Muy recomendado de 64 bits.**
+  <strong>[ ! ] Importante tener instalado Java. Muy recomendado de 64 bits.</strong> <br>
 
-  1. Inicia el launcher. Verás un programa similar a este:
-  ![Macarrones](img/paso1.png)
-  2. A continuación iniciaremos sesión. Para ello clicaremos en el botón de arriba a la derecha y entraremos en el administrador de cuentas:
-  ![Con](img/paso2.png)
-  3. Toca iniciar sesión. Si aún tienes una cuenta de Mojang te recomiendo encarecidamente que la migres ahora, igualmente aún tienes la opción de usarla.
-  *(Puedes migar tu cuenta [aquí](https://www.minecraft.net/es-es/login).)*
-  ![Tomatico](img/paso3.png)
-  4. Ya puedes pasar al siguiente paso! [instalación del pack](#🗻-instalación-del-pack-🗻).
+  1. Inicia el launcher. Verás un programa similar a este: <br>
+  <img src="img/paso1.png">
+  2. A continuación iniciaremos sesión. Para ello clicaremos en el botón de arriba a la derecha y entraremos en el administrador de cuentas:<br>
+  <img src="img/paso2.png">
+  3. Toca iniciar sesión. Si aún tienes una cuenta de Mojang te recomiendo encarecidamente que la migres ahora, igualmente aún tienes la opción de usarla. <br>
+  <strong>(Puedes migar tu cuenta [aquí](https://www.minecraft.net/es-es/login).)</strong>
+  <img src="img/paso3.png">
+  4. Ya puedes pasar al siguiente paso! [instalación del pack](#🗻-instalación-del-pack-❄️).
 
 </details>
 
-## 🗻 Instalación del pack 🗻
+## 🗻 Instalación del pack ❄️
 
 ## Información
 
 Para esta edición he preparado un sismema que se encargará de actualizar y descargar mods desde una configuación creada por mi en la nube. Vosotros solo teneis que importar un ZIP y el programa se encarga del resto.
 
-Existen dos packs distintos. Uno llamado GosolCraft(⛰️) y el otro Gosolcraft Neu (🏔).
+Existen dos packs distintos. Uno llamado GosolCraft(⛰️) y el otro Gosolcraft Neu (❄️).
 
 **GosolCraft (Base)** está enfocado a proporcionar **más rendimeinto**.
 
@@ -63,7 +63,7 @@ Existen dos packs distintos. Uno llamado GosolCraft(⛰️) y el otro Gosolcraft
 
 **Podeis ver las diferencias en la siguiente tabla:**
 
-| Mods                                | Que hacen                    | ⛰️ | 🏔 |
+| Mods                                | Que hacen                    | ⛰️ | ❄️ |
 |-------------------------------------|------------------------------|----|----|
 | *Sodimum, Lithium, Starlight, C2ME* | Optimización                 | 🟩 | 🟩 |
 | *FancyMenu, Drippy Loading Screen*  | Menús personalizados         | 🟩 | 🟩 |
@@ -109,5 +109,3 @@ No la necesitaréis en principio pero la IP es: `mc.tardor.cat:25665`.
 
 ---
 *with💜 by [guineu](http://tardor.cat)*
-
-
