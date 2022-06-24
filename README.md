@@ -91,7 +91,7 @@ Para instalar el pack que hayais elegido segud los siguientes pasos:
 ![guarro](img/paso6.png)
 
 En caso de querer *GosolCraft (Base)* pega esta URL: `https://gosol.tardor.cat/Gosol.zip`.\
-En caso de querer *GosolCraft Neu* pega esta URL: `https://gosol.tardor.cat/Neu.zip`.
+En caso de querer *GosolCraft Neu* pega esta URL: `https://gosol.tardor.cat/GosolNeu.zip`.
 
 Ya está. Si todo sale bien al iniciar el juego los mods se descargan automaticamente!
 
