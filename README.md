@@ -1,4 +1,4 @@
-# GosolCraft 1.19.x (Veranito Edition)
+# GosolCraft: Veranito Edition
 
 > 'We, eh, dentro del mundo de Minecraft si que puedo valerme' - Zarcort Game
 ---
@@ -7,8 +7,8 @@
 
 - <a href="#-instalación-del-launcher-">🧊 Instalación del launcher 🧊</a>
 - <a href="#-instalación-del-pack-%EF%B8%8F">🗻 Instalación del pack ❄️</a>
-- [Información](#información)
-- [Guia de instalación](#guia-de-instalación)
+  - [Información](#información)
+  - [Guia de instalación](#guia-de-instalación)
 - <a href="#-conexión-al-servidor-y-otros-links">🚪 Conexión al servidor y otros links🚪</a>
 
 ## 🧊 Instalación del launcher 🧊
