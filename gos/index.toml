@@ -114,11 +114,6 @@ hash = "6c8b22388b71d48c21b7448fc8613365f551e8fa6bffef4bdfcda3f2afc6c5c5"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "4b07f0e33d5be62cc0724220baac134dcd254627b6ed7797e49a000aa85c1b92"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
 metafile = true
@@ -132,6 +127,10 @@ metafile = true
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
+
+[[files]]
+file = "mods/voicechat-fabric-1.19-2.2.46.jar"
+hash = "40de6b2c6ba921a6d81316f376439eb837bbfc61565e75ac80bde6f63d71eb79"
 
 [[files]]
 file = "options.txt"
