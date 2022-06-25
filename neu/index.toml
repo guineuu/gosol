@@ -2,31 +2,31 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
-hash = "4791765f6265ab0794f79395bcf41c84dae250d132cabfb42d96c98309248f91"
+hash = "857b30a5700c4c2ba7ee606406329e445ba63cf1f083838aa9e04920a208ba17"
 
 [[files]]
 file = "config/drippyloadingscreen/customization/gosolload.dllayout"
-hash = "b9a6e7951356255047ef3ba309d92c1617a1019cc7af9921c6df1b254009fca5"
+hash = "058e4d629faeed18ff19e428b08c3367bfef926330fef07ecfab129aaf52bd7b"
 
 [[files]]
 file = "config/drippyloadingscreen/locals/en_us.local"
-hash = "453b802f5f4f1fc5c5e7177a728f75cadb4e8d5087d290dde646526fb0aefef7"
+hash = "f15498a3da933cadfc0d59766ccb1ef1ed80f6075ded7c240f054a5ead173c9b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "663bd5284e720986ee4ffa355c2b6cc2ab3e7e6e9abfe50192a0a9184ad33c45"
+hash = "4d7cd30903870249e766a1728742794a0cf9c7566d24fce9c7a349182a27c807"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "be47fe994d5d95a522fb139707db683b7c884dbc5f063432884c1895fe307356"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/gosolmenu.txt"
-hash = "10457821a39cf607ed3f69c2999b781020271b28b9b2c837230b74e61d6995ed"
+hash = "ccf9b3ea5eae339a507c5c644fb0004f904b6e88f9c9a27aca6e4de9ed582269"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "b3bc515ecb1f9e5d36c743e03451595056b0fc5429b2d7925286fd785854092d"
+hash = "2496d5f076a277ae04f395d068eaac678c426200b24be568fa7bf6a7eb3b816e"
 
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
@@ -66,41 +66,41 @@ hash = "a565d85a2aef35b3313de410aaaab81c0c65dd31b3961a55620c95d6618c61a6"
 
 [[files]]
 file = "config/fancymenu/panoramas/panoramagosol/properties.txt"
-hash = "511a51ee9417cd6e15f2fefbbe02d1ae82e84020784ecbaab98aeb5c68dc68f7"
+hash = "046843e8176fbd736c762a4647672344dc07d2237767b1f33ae3c160081c0126"
 
 [[files]]
 file = "mods/auudio-fabic.pw.toml"
-hash = "bbb0b0fd8dfc30355dc6f93a0a2507e76161418ff0666263b6d304f05be37133"
+hash = "075ce03364eff67b4a38934dd94e5c7e749e889e0b2bfbf3a6f2e945b9bbb1de"
 metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "b319b54955940da67529cb7599e270d62d724021a6eedc8c75a0815a38ee73e2"
+hash = "c3d82e10126c56b018d25f664e9107a583091b82548c4f04a14c3b1b4db0f507"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "3b586289ed802c8e9a1fb95e45a25a11b69e2331e578e7c8ce4a11084aba832a"
+hash = "ab167459e8e720acddb5824918deff1062670158d63947f49147b8d484f3ba29"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "f2484245aa241d76c8ed53ba9df5325bfd6e0604de66c80db7adcded55d16f85"
+hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
 metafile = true
 
 [[files]]
 file = "mods/drippyloadingcreen-fabric.pw.toml"
-hash = "c755f466e5d8dfd3653c832a152ee9728d70cb50cc5a1203be6cc3a80a8689d4"
+hash = "fc97e79abaddd3103453355a326366f6d48dad8e37ccd40b80d4d848969d2d7b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "30276f2a81d1ba18a030bf12341ed6e0b31a4fd26c362e6c98a0e82c8adddc40"
+hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "a353cfe3e885a7f4a06066b15f72b384b18c31b8a5ca3653505862149f6e8a3d"
+hash = "24f8e3097c58c075c71a2da39684a938e655ed89ba1eb5bd4e6081de2445e843"
 metafile = true
 
 [[files]]
@@ -110,12 +110,12 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.pw.toml"
-hash = "ec9e91ab2391626b9e853286f7049a01035166296049e094d63b378906f1a310"
+hash = "1cefb097ea4012055582060d6939a7928f359a514f01dde8cbf0edb58a13d388"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ea937bf0ec6bb83d0e57a0c01fc580cc3c35f11ab6bb47b2c5ddc89837b3c156"
+hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
 metafile = true
 
 [[files]]
@@ -125,12 +125,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b9606ddefb9d793349ba6cfe819986716161970ad583607e41f5717a2a3746f3"
+hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "52458fcbfb2fadc64e070f1c81d1578404d5504253c1418b7c9389286232a8a1"
+hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
 metafile = true
 
 [[files]]
@@ -150,17 +150,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ff14639a937cf18188111473e9318222be02f32e66dfceef470728dbcceb27d8"
+hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "096424db13c110af39f97a1d0f08bf80db090c174fe9c9cc817943bd5e2a73dc"
+hash = "b48a96a91849dec6ef853b6e3b7112be1860df95b3dc803842bef0bf2d725993"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "bd5a6a0ddf6b0f26318524ca0bb2d9a6b393e2d19a6c3107a13e390dda3c1cd7"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d8059fd640929b64ed856f7a7d64be512e8035e1f00c9c3b834b3c2a807d8f9e"
+hash = "ecc03c0d9521dedfcd429e2c6c94dfa3abc27f8f6b52e7f8192d37932e142901"
 
 [[files]]
 file = "res/gosollogo.png"
@@ -182,9 +182,9 @@ hash = "6f15851dfde1da76bd471ba77d39404b96e462ac15f5cfc6ebdb2589ed58951e"
 
 [[files]]
 file = "res/splash.txt"
-hash = "3a4e0380aec7563575639add27979837a9d79bd173c2bd38f8b89725f5080974"
+hash = "098e891b2249a2c3ab6c8c8af17652343974f2c4e3069feaeea1793764c07fc2"
 
 [[files]]
 file = "shaderpacks/complementary.toml"
-hash = "5f8508001eb4b3d98e6daa9cd471f35470eb61f8a88b9c2fd2b5bd7f9470e2fa"
+hash = "30a90aa414f4d0a17d5595f147f475d979e0f7fa037736ee9661548531c4bd58"
 metafile = true

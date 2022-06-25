@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "ee9e6b06f53e87e9ec77e70740b2cce42cae6ca2e066e9862815893c28d638d7"
+hash = "5fd426a8a5bc7a2fcfa3bfdb7c27dcd46cbf90b5e39274dc160f762b66cff082"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5c3327e4edc5095850ea182d29a51956a1035052ed785d4226e16276187862ec"
+hash = "2b9d778f845e30e9111c5b02f8fc68c797ad39e2a79c7e9d88ab54fa133b100b"
 metafile = true
 
 [[files]]
@@ -17,30 +17,30 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b9606ddefb9d793349ba6cfe819986716161970ad583607e41f5717a2a3746f3"
+hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
 metafile = true
 
 [[files]]
 file = "mods/maintenancemode.pw.toml"
-hash = "63cc4753760e848ce650d7e151ea82049c89937c025c874e4571caa8f2415b49"
+hash = "3e8350e1196c931c4bcb54cbe6455cb6359b585c2478fa5f3613930a5ef4081f"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bda9527c9c9ac64bf1bf5a284961a83de6011280dc695f28ee1cc2b365e618cf"
+hash = "0faa80a6003565e9eb0232d929adb79b4fc21a410548c43356486733dd418b03"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ff14639a937cf18188111473e9318222be02f32e66dfceef470728dbcceb27d8"
+hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "096424db13c110af39f97a1d0f08bf80db090c174fe9c9cc817943bd5e2a73dc"
+hash = "b48a96a91849dec6ef853b6e3b7112be1860df95b3dc803842bef0bf2d725993"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "bd5a6a0ddf6b0f26318524ca0bb2d9a6b393e2d19a6c3107a13e390dda3c1cd7"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
