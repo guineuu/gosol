@@ -17,9 +17,9 @@ Primero debemos descargar PolyMC. Para descargarlo debemos ir a las siguientes p
 
 - **Windows (gente normal):** [Descarga de PolyMC](https://github.com/PolyMC/PolyMC/releases/download/1.3.2/PolyMC-Windows-x86_64-Setup-1.3.2.exe)
 - **GNU/Linux (basado):** [AUR - Arch](https://aur.archlinux.org/packages/polymc) **//** [Flatpack - Universal](https://flathub.org/apps/details/org.polymc.PolyMC)
-- **Conde:** [Descargas de ManyMC](https://github.com/MinecraftMachina/ManyMC/releases/download/v0.1.2/ManyMC.zip)
+- **Conde:** [Descarga de ManyMC](https://github.com/MinecraftMachina/ManyMC/releases/download/v0.1.2/ManyMC.zip)
 
-*Los siguentes pasos son iguales uses ManyMC o PolyMC.*
+*Los siguientes pasos son iguales uses ManyMC o PolyMC.*
 
 Por favor, selecciona como de masticada quieres la guía:
 
@@ -54,7 +54,7 @@ Por favor, selecciona como de masticada quieres la guía:
 
 Para esta edición he preparado un sistema que se encargará de actualizar y descargar mods desde una configuración creada por mi en la nube. Vosotros solo tenéis que importar un ZIP y el programa se encarga del resto.
 
-Existen dos packs distintos. Uno llamado GósolCraft(⛰️) y el otro GósolCraft Neu (❄️).
+Existen dos packs distintos. Uno llamado GósolCraft (⛰️) y el otro GósolCraft Neu (❄️).
 
 **GósolCraft (Base)** está enfocado a proporcionar **más rendimiento**.
 
@@ -62,19 +62,19 @@ Existen dos packs distintos. Uno llamado GósolCraft(⛰️) y el otro GósolCra
 
 **Podéis ver las diferencias en la siguiente tabla:**
 
-| Mods                                | Que hacen                    | ⛰️ | ❄️ |
-|-------------------------------------|------------------------------|----|----|
-| *Sodimum, Lithium, Starlight, C2ME* | Optimización                 | 🟩 | 🟩 |
-| *FancyMenu, Drippy Loading Screen*  | Menús personalizados         | 🟩 | 🟩 |
-| *Iris*                              | Shaders                      | 🟩 | 🟩 |
-| *ComplementaryShaders*  (Iris)      | Pack de shaders incluido¹ | 🟥 | 🟩 |
-| *Simple Voice Chat*                 | Chat de voz integrado        | 🟩 | 🟩 |
-| *Sound Physics Remasetered*         | Físicas de sonido            | 🟩 | 🟩 |
-| *Indium, Continuum*                 | Texturas conectadas          | 🟥 | 🟩 |
-| *Borderless Mining*                 | Ventana sin bordes           | 🟥 | 🟩 |
-| *Inspectio*                         | Info técnica de items        | 🟥 | 🟩 |
-| *Zoomify*                           | Zooom                        | 🟥 | 🟩 |
-| *MouseWheelie*                      | Gestión de inventario        | 🟥 | 🟩 |
+| Mods                                | Que hacen                 | ⛰️ | ❄️ |
+|-------------------------------------|---------------------------|----|----|
+| *Sodimum, Lithium, Starlight, C2ME* | Optimización              | 🟩 | 🟩 |
+| *FancyMenu, Drippy Loading Screen*  | Menús personalizados      | 🟩 | 🟩 |
+| *Iris*                              | Shaders                   | 🟩 | 🟩 |
+| *ComplementaryShaders* (Iris)       | Pack de shaders incluido¹ | 🟥 | 🟩 |
+| *Simple Voice Chat*                 | Chat de voz integrado     | 🟩 | 🟩 |
+| *Sound Physics Remasetered*         | Físicas de sonido         | 🟩 | 🟩 |
+| *Indium, Continuum*                 | Texturas conectadas       | 🟥 | 🟩 |
+| *Borderless Mining*                 | Ventana sin bordes        | 🟥 | 🟩 |
+| *Inspectio*                         | Info técnica de items     | 🟥 | 🟩 |
+| *Zoomify*                           | Zooom                     | 🟥 | 🟩 |
+| *MouseWheelie*                      | Gestión de inventario     | 🟥 | 🟩 |
 
 ¹: Simplemente van incluidos. Puedes instalarlos igual en GósolCraft (Base).
 
