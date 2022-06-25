@@ -94,6 +94,10 @@ En caso de querer *GosolCraft Neu* pega esta URL: `https://gosol.tardor.cat/Goso
 
 Ya está. Si todo sale bien al iniciar el juego los mods se descargan automaticamente!
 
+### Recomendaciones
+- El servidor corre a 15 chunks asi que aumentar más allà de eso no proporciona ninguna ventaja.
+- Podéis pulsar la tecla V para entrar en el menú del chat de voz integrado. Si entrais en "Settings" deberiais activar la opción "Supresión de Audio"
+
 ## 🚪 Conexión al servidor y otros links🚪
 
 No la necesitaréis en principio pero la IP es: `mc.tardor.cat:25665`.
