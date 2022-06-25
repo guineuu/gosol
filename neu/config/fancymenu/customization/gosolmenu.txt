@@ -126,7 +126,7 @@ customization {
   action = addbutton
   y = -6
   label = Entrar a Gósol
-  value = test.guineu.tk
+  value = 176.57.168.206:25665
   height = 20
 }
 
@@ -166,7 +166,7 @@ customization {
   y = 80
   scale = 0.75
   alignment = left
-  url = https://pack.guineu.tk/ver.txt
+  url = https://gosol.tardor.cat/ver.txt
 }
 
 customization {
@@ -183,10 +183,10 @@ customization {
 customization {
   orientation = bottom-left
   shadow = false
-  x = 14
+  x = 13
   actionid = 23a61b86-0f3d-47b7-ab01-ad7cee89e9f41655066790887
   action = addtext
-  y = -18
+  y = -17
   scale = 0.8
   alignment = left
   value = %version:fabric%
@@ -221,7 +221,7 @@ customization {
   x = 5
   actionid = ee6f3890-1593-4ab5-a159-45ff5dced8761655067138243
   action = addtext
-  y = -28
+  y = -26
   scale = 0.8
   alignment = left
   value = §cf§6e§el§ai§9z §5g§ca§6y §a%realtimeday%§b!§5!§c!§6!
@@ -239,5 +239,31 @@ customization {
   scale = 25
   playername = %playername%
   parrot = false
+}
+
+customization {
+  orientation = mid-left
+  vr:showif:serveronline = true
+  shadow = false
+  vr:value:serveronline = 176.57.168.206:25665
+  x = 109
+  actionid = 08542d4f-6084-4bc9-882d-ca36c29f373b1655942350997
+  action = addtext
+  y = 9
+  scale = 0.5
+  alignment = left
+  value = §3%serverplayercount:176.57.168.206:25665% jugadores
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 5
+  actionid = d5dbe131-e291-4e5b-a15c-64207f85b48e1655942434706
+  action = addtext
+  y = -34
+  scale = 0.8
+  alignment = left
+  value = §b§3Info: %servermotd_line1:176.57.168.206:25665%
 }
 
