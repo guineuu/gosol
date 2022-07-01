@@ -22,7 +22,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/gosolmenu.txt"
-hash = "7c42996008480050923b75cd43acaca14834a66f18b7bb152b175beb9a9a1c24"
+hash = "edaac18d6b793eea83d7f470fc773c3cd5b506d652376c0b24729f573b784055"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6c8b22388b71d48c21b7448fc8613365f551e8fa6bffef4bdfcda3f2afc6c5c5"
+hash = "bc2ca8f842e170660a0215e2646f39e7c9822fe521bfa58086eadbe48aa67888"
 metafile = true
 
 [[files]]
@@ -146,4 +146,4 @@ hash = "6f15851dfde1da76bd471ba77d39404b96e462ac15f5cfc6ebdb2589ed58951e"
 
 [[files]]
 file = "res/splash.txt"
-hash = "098e891b2249a2c3ab6c8c8af17652343974f2c4e3069feaeea1793764c07fc2"
+hash = "33964db4060c4895b9e9627e68718a2b4703056fc1a85708cce1ef0c419e9704"

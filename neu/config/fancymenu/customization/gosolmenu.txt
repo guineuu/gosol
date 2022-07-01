@@ -216,18 +216,6 @@ customization {
 }
 
 customization {
-  orientation = bottom-left
-  shadow = false
-  x = 5
-  actionid = ee6f3890-1593-4ab5-a159-45ff5dced8761655067138243
-  action = addtext
-  y = -26
-  scale = 0.8
-  alignment = left
-  value = §cf§6e§el§ai§9z §5g§ca§6y §a%realtimeday%§b!§5!§c!§6!
-}
-
-customization {
   showname = true
   orientation = bottom-right
   crouching = false
@@ -261,7 +249,7 @@ customization {
   x = 5
   actionid = d5dbe131-e291-4e5b-a15c-64207f85b48e1655942434706
   action = addtext
-  y = -34
+  y = -28
   scale = 0.8
   alignment = left
   value = §b§3Info: %servermotd_line1:176.57.168.206:25665%
