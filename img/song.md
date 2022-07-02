@@ -6,5 +6,7 @@
 
 Comando:
 `/audioplayer musicdisk [UUID] "De [Solicitante]"`
-> Nombre del disco [Canciṕn] - [Artista]
+
+> Nombre del disco [Canción] - [Artista] 
+
 > Los campos entre [] se substituyen por el valor
