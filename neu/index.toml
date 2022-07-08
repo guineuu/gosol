@@ -14,7 +14,7 @@ hash = "f15498a3da933cadfc0d59766ccb1ef1ed80f6075ded7c240f054a5ead173c9b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "4d7cd30903870249e766a1728742794a0cf9c7566d24fce9c7a349182a27c807"
+hash = "0a3efc8f48c9e2d52d2e46f0933b26fc49a66db6e4925eb90e9ed51f82d3aecc"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -22,11 +22,27 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/gosolmenu.txt"
-hash = "edaac18d6b793eea83d7f470fc773c3cd5b506d652376c0b24729f573b784055"
+hash = "69f7f466a7b17626a569d3a8c411282c76e88e7b6d0b48afa3b331ed838d70f2"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "2496d5f076a277ae04f395d068eaac678c426200b24be568fa7bf6a7eb3b816e"
+hash = "dd96aa7416c345bed8c7ad4765e92d18cd8f3fe7a230e3d2148212daa7db6f43"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "f1c00a3c0fb7846f8aaf0b8e3f30368b9092352731ebbeb86b02bcdcd2f66abc"
 
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
@@ -67,6 +83,10 @@ hash = "2b31aaa897e513bacc579bc7deb66010a1e338e926526070fded06f1bd199073"
 [[files]]
 file = "config/fancymenu/panoramas/panoramagosol/properties.txt"
 hash = "046843e8176fbd736c762a4647672344dc07d2237767b1f33ae3c160081c0126"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "mods/auudio-fabic.pw.toml"
@@ -159,8 +179,8 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
-file = "mods/voicechat-fabric-1.19-2.2.46.jar"
-hash = "40de6b2c6ba921a6d81316f376439eb837bbfc61565e75ac80bde6f63d71eb79"
+file = "mods/voicechat-fabric-1.19-2.2.48.jar"
+hash = "f0750d0cfcb0d17fe8a4329db6e10d139858fded13cf14f4a458dad79afe1f42"
 
 [[files]]
 file = "mods/zoomify.pw.toml"

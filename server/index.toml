@@ -21,9 +21,8 @@ hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
 metafile = true
 
 [[files]]
-file = "mods/maintenancemode.pw.toml"
-hash = "3e8350e1196c931c4bcb54cbe6455cb6359b585c2478fa5f3613930a5ef4081f"
-metafile = true
+file = "mods/mmode-fabric-1.19-1.1.2d.jar"
+hash = "b613565f830a0b8ea4b798dfb144085e3d09959e88c1a8b3f12afc1a7af12926"
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -41,5 +40,5 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
-file = "mods/voicechat-fabric-1.19-2.2.46.jar"
-hash = "40de6b2c6ba921a6d81316f376439eb837bbfc61565e75ac80bde6f63d71eb79"
+file = "mods/voicechat-fabric-1.19-2.2.48.jar"
+hash = "f0750d0cfcb0d17fe8a4329db6e10d139858fded13cf14f4a458dad79afe1f42"

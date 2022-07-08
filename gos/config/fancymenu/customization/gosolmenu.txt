@@ -116,6 +116,52 @@ customization {
 }
 
 customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 228
+  action = deep_customization_element:title_screen_branding
+  actionid = 7156ead0-5986-4800-b308-15e37d80c87a1657279448718
+  y = 244
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 9b23d2ab-072f-49ac-a20d-9acc291364331657279448720
+  y = 164
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = f5eaed89-7012-4e1e-b95d-dab3abdd42f11657279448720
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 93d59942-49b9-4e2b-b7a7-4a5fb0dd47fb1657279448720
+  y = 0
+  height = 30
+}
+
+customization {
   orientation = mid-left
   loopbackgroundanimations = true
   restartbackgroundanimations = true
@@ -133,7 +179,7 @@ customization {
 customization {
   path = res/gosollogo.png
   orientation = top-centered
-  x = -120
+  x = -119
   width = 241
   action = addtexture
   actionid = 2eb7673c-3949-48d5-af09-ec43c934974d1655065513161

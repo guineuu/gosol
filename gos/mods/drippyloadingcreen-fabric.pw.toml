@@ -1,8 +1,0 @@
-name = "Drippy Loading Screen (Fabric)"
-filename = "drippyloadingscreen_fabric_1.6.3_MC_1.19.jar"
-side = "client"
-
-[download]  
-url = "https://media.forgecdn.net/files/3821/669/drippyloadingscreen_fabric_1.6.3_MC_1.19.jar"
-hash-format = "sha1"
-hash = "07d4cf04f427ad37edf75e0541bfa3b1a7ce9031"
